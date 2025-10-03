@@ -44,5 +44,3 @@ Run the prediction script with an image path:
 ```bash
 python predict.py path/to/image.png
 ```
-
-## Output
